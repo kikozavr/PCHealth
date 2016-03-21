@@ -14,8 +14,6 @@ namespace PCHealth
 {
     public partial class PCHealth : Form
     {
-        //dddddddddddddddddddddddd
-
         List<DriveInfo> _DriveInfo;
 
         public PCHealth()
